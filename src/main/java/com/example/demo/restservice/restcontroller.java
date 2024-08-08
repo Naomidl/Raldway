@@ -10,7 +10,7 @@ public class restcontroller {
 
     @GetMapping("/")
     public String getName() {
-        return "Naomi";
+        return "Naomi de León";
     }
 
 }
